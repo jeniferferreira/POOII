@@ -1,4 +1,4 @@
-package com.example.poo2aula09032020;
+package com.example.atividade1_ac1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

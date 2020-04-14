@@ -1,7 +1,7 @@
-package com.example.poo2aula09032020.controller;
+package com.example.atividade1_ac1.controller;
 
-import com.example.poo2aula09032020.model.User;
-import com.example.poo2aula09032020.service.UserService;
+import com.example.atividade1_ac1.model.User;
+import com.example.atividade1_ac1.service.UserService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

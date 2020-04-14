@@ -1,4 +1,4 @@
-package com.example.poo2aula09032020.model;
+package com.example.atividade1_ac1.model;
 
 /**
  * User

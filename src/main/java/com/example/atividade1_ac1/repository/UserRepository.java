@@ -1,8 +1,8 @@
-package com.example.poo2aula09032020.repository;
+package com.example.atividade1_ac1.repository;
 
 import java.util.HashMap;
 
-import com.example.poo2aula09032020.model.User;
+import com.example.atividade1_ac1.model.User;
 
 import org.springframework.stereotype.Repository;
 
